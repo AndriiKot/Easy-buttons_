@@ -1,3 +1,7 @@
+:root {
+  --gap: 0.5rem;
+}
+
 html {
   box-sizing: border-box;
 }
@@ -14,10 +18,16 @@ body {
 }
 
 .apartments {
-  columns: 200px;
+  columns: 300px;
+  column-gap: var(--gap);
+  padding: calc(var(--gap) / 1.25);
 }
+
 .apartments__item {
+  margin-bottom: var(--gap);
 }
+
 .apartments__image {
   width: 100%;
+  display: block;
 }
