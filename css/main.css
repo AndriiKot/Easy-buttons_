@@ -1,3 +1,23 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
 body {
-  background-color: black;
+  padding: 0;
+  margin: 0;
+}
+
+.apartments {
+  columns: 200px;
+}
+.apartments__item {
+}
+.apartments__image {
+  width: 100%;
 }
