@@ -7,7 +7,7 @@
 <img src="https://github.com/AndriiKot/CSS__Masonry/blob/main/preview/laptop.png" alt="Laptop preview">
 
 ## Mobile
-<img src="https://github.com/AndriiKot/CSS__Masonry/blob/amin/preview/mobile.png" alt="Mobile preview">
+<img src="https://github.com/AndriiKot/CSS__Masonry/blob/main/preview/mobile.png" alt="Mobile preview">
 
 ### Technologies:
 
